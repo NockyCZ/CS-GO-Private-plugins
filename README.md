@@ -18,12 +18,14 @@
 * **Doublejump with cooldown (8€)**
     * Video: 
 * **Hidden chat for VIP players (5€)**
-    * 
+    * https://imgur.com/a/pzQnANV
     * Admins also see this chat
 * **Immunity to knives (7€)**
-    * popisek
-* **1 new extra bullet per kill (6€)**
-    * popisek
+    * VIP players can enable/disable knife imunity
+    *
+* **1 new extra bullet per kill (7€)**
+    * When VIP player kill another player, so it give him 1 extra bullet to the stack
+    *
     
 #
 
