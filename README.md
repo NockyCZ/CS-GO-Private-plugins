@@ -5,15 +5,17 @@
     * popisek
 * **Player report (5€)**
     * popisek
+* **Bug report (5€)**
+    * popisek
     
-### Pluginy které zvýhodní hráče s VIP
-* **Doublejump with cooldown (€)**
+### Ideal plugins for VIP players
+* **Doublejump with cooldown (8€)**
     * popisek
-* **Chat mezi VIP hráči (€)**
+* **Chat between VIP players (5€)**
     * popisek
-* **Imunita vůči nožům**
+* **Immunity to knives (7€)**
     * popisek
-* **Bullet for kill**
+* **Bullet for kill (6€)**
     * popisek
 
 ### Payment methods
