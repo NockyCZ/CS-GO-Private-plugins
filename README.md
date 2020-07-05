@@ -1,4 +1,5 @@
-# Private-plugins
-My own list of private plugins
+# List of private plugins for sale
 
-# fds
+# Contacts
+Steam: https://steamcommunity.com/id/nockys
+Discord: Nocky#0001
