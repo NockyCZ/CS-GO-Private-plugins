@@ -1,8 +1,8 @@
 # List of CS:GO private plugins for sale
 
-### FDSF
+**FDSF**
 čau
-### test
+**test**
 čau
 ### test
 čau
@@ -12,8 +12,8 @@
 čau
 
 ### Payment methods
-Paypal , PSC
-
+* Paypal
+* PSC
 ### Contact and info about me
 * Discord: Nocky#0001
 * Steam: https://steamcommunity.com/id/nockys
