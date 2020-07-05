@@ -25,7 +25,7 @@
     *
 * **1 new extra bullet per kill (7€)**
     * When VIP player kill another player, so it give him 1 extra bullet to the stack
-    *
+    * https://www.youtube.com/watch?v=jB4N7Zc4w5U
     
 #
 
