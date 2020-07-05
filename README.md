@@ -7,10 +7,10 @@
 * **Player report (5€)**
     * Something like calladmin, players can report another players with a reason
     * You can configurable reasons and cooldown on command 
-    * img
+    * https://imgur.com/a/X6vTdhR
 * **Bug report (5€)**
     * Players can report bugs on your server
-    * img
+    * https://imgur.com/a/xbAI1Qv
 
 #
 
