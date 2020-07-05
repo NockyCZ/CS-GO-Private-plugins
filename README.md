@@ -2,20 +2,24 @@
 
 ### Discord plugins, which you can connect with CS:GO server and discord server with a webhooks
 * **Chatlog (5€)**
-    * https://imgur.com/a/vUHRK0q
     * All messages that players write are displayed in the room
+    * https://imgur.com/a/vUHRK0q
 * **Player report (5€)**
-    * popisek
+    * Something like calladmin, players can report another players with a reason
+    * You can configurable reasons and cooldown on command 
+    * img
 * **Bug report (5€)**
-    * popisek
+    * Players can report bugs on your server
+    * img
 
 #
 
 ### Ideal plugins for VIP players
 * **Doublejump with cooldown (8€)**
-    * popisek
+    * Video: 
 * **Hidden chat for VIP players (5€)**
-    * popisek
+    * 
+    * Admins also see this chat
 * **Immunity to knives (7€)**
     * popisek
 * **1 new extra bullet per kill (6€)**
@@ -25,10 +29,22 @@
 
 ### Gameplay
 * **Special rounds (25€)**
-    * popisek
+    * You can configurable special rounds interval
+    * VIP players can set on next round a special round
+    * List of all spec. rounds: **Noscope**, **Only headshot**, **Free for all (FFA)**, **Low Gravity**, **Knife**
+    * Video:
 * **Body hits (10€)**
-    * popisek
+    * https://www.youtube.com/watch?v=J_sOL7jS4So
+    * You can configurable colors, holdtime and position (x,y)
+    * https://imgur.com/a/A9PzifD
     
+#
+
+### Admin managment
+* **Player informations (10€)**
+    * Admin can find out information about players
+    * img 
+
 #
 
 ### Payment methods
