@@ -45,7 +45,7 @@
 ### Admin managment
 * **Player informations (10€)**
     * Admin can find out information about players
-    * img 
+    * https://imgur.com/a/bg8rfdN 
 
 #
 
