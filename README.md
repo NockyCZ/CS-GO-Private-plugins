@@ -15,6 +15,6 @@
 Paypal , PSC
 
 ### Contact and info about me
-Discord: Nocky#0001
-Steam: https://steamcommunity.com/id/nockys
-My CS:GO portal: https://wasd.cz
+* Discord: Nocky#0001
+* Steam: https://steamcommunity.com/id/nockys
+* My CS:GO portal: https://wasd.cz
