@@ -1,18 +1,20 @@
 # List of CS:GO private plugins for sale
 
-### Discord pluginy, které lze propojit s CS:GO serverem s vaším discordem serverem pomocí webhooks
-* **Chatlog**
-    * CHANGE: Update docs (module code remains unchanged)
-* **Player report**
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
+### Discord plugins, which you can connect with CS:GO server and your discord server with a webhooks
+* **Chatlog (5€)**
+    * popisek
+* **Player report (5€)**
+    * popisek
     
-### test
-čau
-### test
-čau
-### test
-čau
+### Pluginy které zvýhodní hráče s VIP
+* **Doublejump with cooldown (€)**
+    * popisek
+* **Chat mezi VIP hráči (€)**
+    * popisek
+* **Imunita vůči nožům**
+    * popisek
+* **Bullet for kill**
+    * popisek
 
 ### Payment methods
 * Paypal
