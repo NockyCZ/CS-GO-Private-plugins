@@ -16,7 +16,7 @@
 
 ### Ideal plugins for VIP players
 * **Doublejump with cooldown (8€)**
-    * Video: 
+    * https://www.youtube.com/watch?v=oNMB_OkPZ50
 * **Hidden chat for VIP players (5€)**
     * https://imgur.com/a/pzQnANV
     * Admins also see this chat
@@ -34,7 +34,7 @@
     * You can configurable special rounds interval
     * VIP players can set on next round a special round
     * List of all spec. rounds: **Noscope**, **Only headshot**, **Free for all (FFA)**, **Low Gravity**, **Knife**
-    * Video:
+    * Video preview:
 * **Body hits (10€)**
     * https://www.youtube.com/watch?v=J_sOL7jS4So
     * You can configurable colors, holdtime and position (x,y)
