@@ -52,6 +52,6 @@
 ### Payment methods
 * Paypal
 * PSC
-### Contact and info about me
+### Contact details
 * Discord: Nocky#0001
 * Steam: https://steamcommunity.com/id/nockys
