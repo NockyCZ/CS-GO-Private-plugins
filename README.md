@@ -2,7 +2,8 @@
 
 ### Discord plugins, which you can connect with CS:GO server and discord server with a webhooks
 * **Chatlog (5€)**
-    * popisek
+    * https://imgur.com/a/vUHRK0q
+    * All messages that players write are displayed in the room
 * **Player report (5€)**
     * popisek
 * **Bug report (5€)**
@@ -18,6 +19,14 @@
 * **Immunity to knives (7€)**
     * popisek
 * **1 new extra bullet per kill (6€)**
+    * popisek
+    
+#
+
+### Gameplay
+* **Special rounds (25€)**
+    * popisek
+* **Body hits (10€)**
     * popisek
     
 #
