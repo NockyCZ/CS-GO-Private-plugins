@@ -1,8 +1,8 @@
 # List of CS:GO private plugins for sale
 
-**FDSF**
-čau
-**test**
+### Discord pluginy, které lze propojit s CS:GO serverem s vaším discordem serverem pomocí webhooks
+* **Chatlog**
+ * test
 čau
 ### test
 čau
