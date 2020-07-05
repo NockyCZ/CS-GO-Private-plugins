@@ -2,8 +2,11 @@
 
 ### Discord pluginy, které lze propojit s CS:GO serverem s vaším discordem serverem pomocí webhooks
 * **Chatlog**
- * test
-čau
+    * CHANGE: Update docs (module code remains unchanged)
+* **Player report**
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
+    
 ### test
 čau
 ### test
