@@ -33,7 +33,7 @@
 * **Special rounds (25€)**
     * You can configurable special rounds interval
     * VIP players can set on next round a special round
-    * List of all spec. rounds: **Noscope**, **Only headshot**, **Free for all (FFA)**, **Low Gravity**, **Knife**
+    * List of all spec. rounds: **Noscope**, **Only headshot**, **Free for all (FFA)**, **Low Gravity**, **Knife** and **Scout**
     * Video preview:
 * **Body hits (10€)**
     * https://www.youtube.com/watch?v=J_sOL7jS4So
@@ -46,7 +46,8 @@
 * **Player informations (10€)**
     * Admin can find out information about players
     * https://imgur.com/a/bg8rfdN 
-
+* **Beacon (New modern style) (6€)**
+    * ytb
 #
 
 ### Payment methods
