@@ -47,7 +47,7 @@
     * Admin can find out information about players
     * https://imgur.com/a/bg8rfdN 
 * **Beacon (New modern style) (6€)**
-    * ytb
+    * https://www.youtube.com/watch?v=B37cWSQPg3w
 #
 
 ### Payment methods
