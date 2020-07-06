@@ -1,4 +1,5 @@
 # List of CS:GO private plugins for sale
+*Purchasing plugin automatically include plugin support (bugs/errors), also you are getting new version of plugin.*
 
 ### Discord plugins, which you can connect with CS:GO server and discord server with a webhooks
 * **Chatlog (5€)**
