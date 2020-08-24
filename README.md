@@ -38,6 +38,7 @@
 * **Body hits (10€)**
     * https://www.youtube.com/watch?v=J_sOL7jS4So
     * You can configurable colors, holdtime and position (x,y)
+    * Shows the total hit to the attacker when the player dies
     * https://imgur.com/a/A9PzifD
     
 #
